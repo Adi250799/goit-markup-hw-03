@@ -1,0 +1,135 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #ffffff;
+}
+
+.word2 {
+    color: #2e2f42;
+}
+.keycap {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    cursor: pointer;
+    background-color: #4d5ae5;
+}
+.keycap:hover {
+    background-color: #404bbf;
+}
+.keycap:focus {
+    background-color: #404bbf;
+}
+
+.down {
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02;
+    color: #f4f4fd;
+}
+.lyrics {
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0.03em;
+    color: #f4f4fd;
+}
+.logotype {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+.list {
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.post-link {
+    color: #2e2f42;
+}
+
+.post-link:hover {
+    color: #404bbf;
+}
+.post-link:focus {
+    color: #404bbf;
+}
+.noitalic {
+    font-style: normal;
+}
+.way {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.way:hover {
+    color: #404bbf;
+}
+.way:focus {
+    color: #404bbf;
+}
+.second-part {
+    background-color: #2e2f42;
+}
+.heading-one {
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #ffffff;
+}
+.heading {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.indetion {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.third-part {
+    background-color: #f4f4fd;
+}
+.wrapper {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+.picture {
+    background-color: #ffffff;
+}
+
+.word {
+    color: #f4f4fd;
+}
+.last-indetion {
+    line-height: 1.5;
+    color: #f4f4fd;
+    letter-spacing: 0.02em;
+}
+.end {
+    background-color: #2e2f42;
+}
